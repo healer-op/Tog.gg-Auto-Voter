@@ -1,0 +1,23 @@
+{
+  "name": "top.gg-automatic-voter",
+  "version": "1.0.0",
+  "description": "Script to vote a bot on top.gg automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "top.gg",
+    "discord",
+    "bots",
+    "javascript",
+    "puppeteer"
+  ],
+  "author": "Healer-op",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "puppeteer": "^13.1.2"
+  }
+}
